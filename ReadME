@@ -1,0 +1,22 @@
+LoginMain = 로그인 화면
+Main = 메인화면
+User = 유저관련
+
+DeleteAccountMain = 회원탈퇴 화면
+DeleteAccount = 회원탈퇴 함수 모음
+
+CreateAccountMain = 계좌개설
+CreateAccount1 = 보통예금 계좌개설
+CreateAccount2 = 적금 계좌개설
+MyAccount = 내 계좌보기
+
+DepositAccountMain = 계좌입금 화면
+DepositAccount = 계좌입금 함수 모음
+WithdrawAccountMain = 계좌출금 화면
+WithdrawAccount = 계좌출금 함수 모음
+
+LogMain = 사용내역 화면
+Log = 사용내역 함수 모음
+
+모든 사용자 정보는 LoginMain.path에 저장됨 
+(path = System.getProperty("user.home") + File.separator + "bank\\")
